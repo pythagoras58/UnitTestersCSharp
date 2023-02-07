@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicUnitTesters", "BasicUn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeNetworks", "FakeNetworks\FakeNetworks.csproj", "{17875382-9A7D-4F43-9A63-EF1EEECD391B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeNetworks.Test", "FakeNetworks.Test\FakeNetworks.Test.csproj", "{EB3C6D13-9408-403A-B840-A390FF96CA1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{17875382-9A7D-4F43-9A63-EF1EEECD391B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17875382-9A7D-4F43-9A63-EF1EEECD391B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17875382-9A7D-4F43-9A63-EF1EEECD391B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB3C6D13-9408-403A-B840-A390FF96CA1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3C6D13-9408-403A-B840-A390FF96CA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3C6D13-9408-403A-B840-A390FF96CA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3C6D13-9408-403A-B840-A390FF96CA1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
