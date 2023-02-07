@@ -1,0 +1,15 @@
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\BasicUnitTesters\bin\Debug\net6.0\BasicUnitTesters.exe
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\BasicUnitTesters\bin\Debug\net6.0\BasicUnitTesters.deps.json
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\BasicUnitTesters\bin\Debug\net6.0\BasicUnitTesters.runtimeconfig.json
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\BasicUnitTesters\bin\Debug\net6.0\BasicUnitTesters.dll
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\BasicUnitTesters\bin\Debug\net6.0\BasicUnitTesters.pdb
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\BasicUnitTesters\obj\Debug\net6.0\BasicUnitTesters.csproj.AssemblyReference.cache
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\BasicUnitTesters\obj\Debug\net6.0\BasicUnitTesters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\BasicUnitTesters\obj\Debug\net6.0\BasicUnitTesters.AssemblyInfoInputs.cache
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\BasicUnitTesters\obj\Debug\net6.0\BasicUnitTesters.AssemblyInfo.cs
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\BasicUnitTesters\obj\Debug\net6.0\BasicUnitTesters.csproj.CoreCompileInputs.cache
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\BasicUnitTesters\obj\Debug\net6.0\BasicUnitTesters.dll
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\BasicUnitTesters\obj\Debug\net6.0\refint\BasicUnitTesters.dll
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\BasicUnitTesters\obj\Debug\net6.0\BasicUnitTesters.pdb
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\BasicUnitTesters\obj\Debug\net6.0\BasicUnitTesters.genruntimeconfig.cache
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\BasicUnitTesters\obj\Debug\net6.0\ref\BasicUnitTesters.dll

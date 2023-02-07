@@ -7,10 +7,21 @@ public static class DumbestFunctionTest
         try
         {
             // Arrange - Get variables, classes and functions
+            int num = 0;
+            DumbestFunction dumbestFunction = new DumbestFunction();
             
-            //Act
+            //Act - execute function
+            string results = dumbestFunction.ReturnsBabes(num);
             
-            //Assert
+            //Assert - whatever is return :: verify if that is what you want
+            if (results == "Next Time")
+            {
+                Console.WriteLine("Test Passed");
+            }
+            else
+            {
+                Console.WriteLine("Test Failed");
+            }
         }
         catch (Exception e)
         {
