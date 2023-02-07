@@ -1,0 +1,15 @@
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\FakeNetworks\bin\Debug\net6.0\FakeNetworks.exe
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\FakeNetworks\bin\Debug\net6.0\FakeNetworks.deps.json
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\FakeNetworks\bin\Debug\net6.0\FakeNetworks.runtimeconfig.json
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\FakeNetworks\bin\Debug\net6.0\FakeNetworks.dll
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\FakeNetworks\bin\Debug\net6.0\FakeNetworks.pdb
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\FakeNetworks\obj\Debug\net6.0\FakeNetworks.csproj.AssemblyReference.cache
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\FakeNetworks\obj\Debug\net6.0\FakeNetworks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\FakeNetworks\obj\Debug\net6.0\FakeNetworks.AssemblyInfoInputs.cache
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\FakeNetworks\obj\Debug\net6.0\FakeNetworks.AssemblyInfo.cs
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\FakeNetworks\obj\Debug\net6.0\FakeNetworks.csproj.CoreCompileInputs.cache
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\FakeNetworks\obj\Debug\net6.0\FakeNetworks.dll
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\FakeNetworks\obj\Debug\net6.0\refint\FakeNetworks.dll
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\FakeNetworks\obj\Debug\net6.0\FakeNetworks.pdb
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\FakeNetworks\obj\Debug\net6.0\FakeNetworks.genruntimeconfig.cache
+C:\Users\Pythagorasweb\RiderProjects\UnitTesters\FakeNetworks\obj\Debug\net6.0\ref\FakeNetworks.dll
